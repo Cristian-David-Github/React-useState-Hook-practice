@@ -2,7 +2,7 @@
   "name": "firstreactapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{username}.github.io",
+  "homepage": "https://github.com/Cristian-David-Github/React-useState-hook-practice",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
